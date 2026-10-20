@@ -1,0 +1,70 @@
+[
+  {
+    "sourceSkill": "graph-engineering-skill",
+    "packagedPath": "skills/graph-engineering-skill",
+    "suppliedLicenseFiles": [],
+    "missingLicenseResolution": "MIT selected directly by repository owner on 2026-10-20; not an upstream license assertion"
+  },
+  {
+    "sourceSkill": "orchestrate",
+    "packagedPath": "skills/orchestrate",
+    "suppliedLicenseFiles": [],
+    "missingLicenseResolution": "MIT selected directly by repository owner on 2026-10-20; not an upstream license assertion"
+  },
+  {
+    "sourceSkill": "arena",
+    "packagedPath": "skills/arena",
+    "suppliedLicenseFiles": [
+      "LICENSE"
+    ],
+    "missingLicenseResolution": null
+  },
+  {
+    "sourceSkill": "handoff",
+    "packagedPath": "skills/handoff",
+    "suppliedLicenseFiles": [
+      "LICENSE"
+    ],
+    "missingLicenseResolution": null
+  },
+  {
+    "sourceSkill": "principle-guard-the-context-window",
+    "packagedPath": "references/principles/principle-guard-the-context-window",
+    "suppliedLicenseFiles": [
+      "LICENSE"
+    ],
+    "missingLicenseResolution": null
+  },
+  {
+    "sourceSkill": "principle-make-operations-idempotent",
+    "packagedPath": "references/principles/principle-make-operations-idempotent",
+    "suppliedLicenseFiles": [
+      "LICENSE"
+    ],
+    "missingLicenseResolution": null
+  },
+  {
+    "sourceSkill": "principle-never-block-on-the-human",
+    "packagedPath": "references/principles/principle-never-block-on-the-human",
+    "suppliedLicenseFiles": [
+      "LICENSE"
+    ],
+    "missingLicenseResolution": null
+  },
+  {
+    "sourceSkill": "principle-outcome-oriented-execution",
+    "packagedPath": "references/principles/principle-outcome-oriented-execution",
+    "suppliedLicenseFiles": [
+      "LICENSE"
+    ],
+    "missingLicenseResolution": null
+  },
+  {
+    "sourceSkill": "principle-sequence-verifiable-units",
+    "packagedPath": "references/principles/principle-sequence-verifiable-units",
+    "suppliedLicenseFiles": [
+      "LICENSE"
+    ],
+    "missingLicenseResolution": null
+  }
+]

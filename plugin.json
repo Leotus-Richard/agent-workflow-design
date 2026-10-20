@@ -1,0 +1,22 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "agent-workflow-design",
+  "version": "0.1.0",
+  "description": "Workflow graphs, bounded coordination, comparison rubrics, and handoffs; no scheduler/runtime.",
+  "author": {
+    "name": "Leotus-Richard"
+  },
+  "homepage": "https://github.com/Leotus-Richard/agent-workflow-design",
+  "repository": "https://github.com/Leotus-Richard/agent-workflow-design.git",
+  "license": "MIT",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Agent Workflow Design",
+        "shortDescription": "Workflow graphs, bounded coordination, comparison rubrics, an.",
+        "developerName": "Leotus-Richard",
+        "category": "Productivity"
+      }
+    }
+  }
+}
